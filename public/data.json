@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Ufanisi SACCO",
+      "services": {
+        "savings": true,
+        "credit_facilities": true,
+        "financial_education": true,
+        "insurance_products": true,
+        "investment_opportunities": true
+      },
+      "members": 5000,
+      "description": "Ufanisi SACCO is committed to providing financial services tailored to meet the needs of its members. With a focus on promoting savings culture and providing affordable credit, Ufanisi SACCO aims to empower its members to achieve their financial goals.",
+      "history": "Established in 1995, Ufanisi SACCO has been serving its members for over two decades. From humble beginnings, it has grown to become one of the leading SACCOs in the region."
+    },
+    {
+      "id": 2,
+      "name": "Unaitas SACCO",
+      "services": {
+        "savings": true,
+        "credit_facilities": true,
+        "financial_education": true,
+        "insurance_products": false,
+        "investment_opportunities": true
+      },
+      "members": 7000,
+      "description": "Unaitas SACCO is dedicated to providing innovative financial solutions to its members. By offering competitive savings products, affordable credit facilities, and investment opportunities, Unaitas SACCO aims to foster financial growth and prosperity among its members.",
+      "history": "Founded in 2004, Unaitas SACCO has rapidly grown to become a trusted financial partner for individuals and businesses alike. With a strong commitment to member satisfaction, Unaitas SACCO continues to expand its reach and impact in the community."
+    },
+    {
+      "id": 3,
+      "name": "Stima SACCO",
+      "services": {
+        "savings": true,
+        "credit_facilities": true,
+        "financial_education": true,
+        "insurance_products": true,
+        "investment_opportunities": true
+      },
+      "members": 10000,
+      "description": "Stima SACCO is dedicated to empowering its members through financial inclusion and economic empowerment. With a range of savings and credit products, as well as investment opportunities and insurance products, Stima SACCO strives to improve the financial well-being of its members.",
+      "history": "Established in 1974, Stima SACCO has a long-standing history of serving the energy sector and beyond. Over the years, it has evolved to meet the changing needs of its members while maintaining its core values of integrity, innovation, and member-centricity."
+    },
+    {
+      "id": 4,
+      "name": "Biashara SACCO",
+      "services": {
+        "savings": true,
+        "credit_facilities": true,
+        "financial_education": true,
+        "insurance_products": false,
+        "investment_opportunities": false
+      },
+      "members": 3000,
+      "description": "Biashara SACCO is committed to providing accessible financial services to small and medium-sized enterprises (SMEs). Through savings mobilization and affordable credit facilities, Biashara SACCO aims to support the growth and development of businesses in the community.",
+      "history": "Founded in 1998 by a group of entrepreneurs, Biashara SACCO has been instrumental in providing financial assistance to businesses in the region. With a focus on promoting entrepreneurship and economic development, Biashara SACCO continues to make a positive impact in the community."
+    },
+    {
+      "id": 5,
+      "name": "Mwalimu SACCO",
+      "services": {
+        "savings": true,
+        "credit_facilities": true,
+        "financial_education": true,
+        "insurance_products": true,
+        "investment_opportunities": false
+      },
+      "members": 12000,
+      "description": "Mwalimu SACCO is dedicated to serving the education sector by providing tailored financial solutions to teachers and education professionals. With a range of savings products, affordable credit facilities, and insurance options, Mwalimu SACCO aims to improve the financial well-being of its members.",
+      "history": "Established in 1974 by a group of teachers, Mwalimu SACCO has been a cornerstone of the education community for over four decades. With a deep understanding of the needs of its members, Mwalimu SACCO continues to innovate and adapt to serve its members better."
+    },
+    {
+      "id": 6,
+      "name": "Bandari SACCO",
+      "services": {
+        "savings": true,
+        "credit_facilities": true,
+        "financial_education": true,
+        "insurance_products": false,
+        "investment_opportunities": false
+      },
+      "members": 5000,
+      "description": "Bandari SACCO is committed to providing financial services to the maritime and port industry. Through savings mobilization and credit facilities, Bandari SACCO aims to support the financial needs of its members working in the maritime sector.",
+      "history": "Established in 1982, Bandari SACCO has been serving the maritime community for over three decades. With a focus on providing affordable financial solutions to its members, Bandari SACCO continues to play a vital role in the growth and development of the maritime industry."
+    }
+  ]
+  
