@@ -1,11 +1,10 @@
-import styles from './style'
+import styles from "./style";
 
-import Hero from "./components/Hero"
-import Navbar from "./components/Navbar"
-import Saccos from './components/Saccos'
+import Hero from "./components/Hero";
+import Navbar from "./components/Navbar";
+import Saccos from "./components/Saccos";
 
 function App() {
-
   return (
     <div className="w-full over">
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
@@ -22,13 +21,11 @@ function App() {
 
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
-          <Saccos/>
+          <Saccos />
         </div>
       </div>
-      
-      
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
