@@ -2,7 +2,7 @@ import styles from "./style";
 
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
-import Saccos from "./components/Saccos";
+import Saccos from "./components/Sacco/Saccos";
 
 function App() {
   return (

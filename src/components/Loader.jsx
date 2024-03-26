@@ -6,10 +6,9 @@ const Loader = () => {
       visible={true}
       height="80"
       width="80"
-      color="grey"
+      color="blue"
       strokeWidth="5"
-      animationDuration="1"
-      timeout={3000}
+      animationDuration="2"
       ariaLabel="rotating-lines-loading"
       wrapperStyle={{}}
       wrapperClass=""

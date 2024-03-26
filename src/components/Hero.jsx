@@ -17,8 +17,8 @@ const Hero = () => {
             className="font-semibold ss:text-[52px]
             text-[32px] ss:leading-[60px] leading-[35px]"
           >
-            All in one platform to help you find information about Saccos near
-            you
+            All in one platform to help you find information about Saccos <span className="text-darkBlue font-bold">near
+            you</span>
           </h1>
           <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
             Find new SACCOs, build investment plans and find a community you can
